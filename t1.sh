@@ -1,0 +1,23 @@
+#!/bin/bash
+cd ..
+mkdir directory1
+cd directory1
+mkdir directory2
+mkdir directory3
+cd directory3
+touch file1
+touch file2
+mkdir directory4
+cd directory4
+touch file3
+touch file4
+touch file5
+touch file6
+cd ..
+cd ..
+mkdir directory5
+cd directory5
+touch file7
+touch file8
+cd ..
+touch file9
